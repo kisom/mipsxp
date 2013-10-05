@@ -6,3 +6,5 @@ out how to use the syscalls, at least for OpenBSD.mips64.
 Most of these are probably of little to no interest to other people.
 The programs are short enough to not be documented, as they're
 typically one-off targets for disasembly or readelf-ing.
+
+Where applicable, these files are released under the ISC license.
