@@ -1,0 +1,8 @@
+MIPS64EXP
+
+In this folder are several test files wherein I attempt to figure
+out how to use the syscalls, at least for OpenBSD.mips64.
+
+Most of these are probably of little to no interest to other people.
+The programs are short enough to not be documented, as they're
+typically one-off targets for disasembly or readelf-ing.
